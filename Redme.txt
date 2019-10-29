@@ -1,0 +1,12 @@
+Project Name : Remote Area Enargy Saving By Controlling Streat Light Brightness level.
+
+
+Shot Descriptoin:
+
+Its a hardware and software based project. For store and collecting data we use arduino as a microprocessor. Its coded arduino standered code level. For collecting light sensitivity data i use ldr sensor and for object detection i use ir sensor. 
+
+
+
+Basically Remote are highway roads are not busy as like main city streat so i think we don't need to glow all the light whole night. and also if we turn of the light and when we need light then turn on the light its so risky for drivers and peoples for better sight and vision. also it will affect on light durabily. 
+
+So that my plan is when my ir sensor detect object as any vehicle then all the light glows brightly and when there is no vehicle then no object detection then all the lights are glow as like dim light. 
